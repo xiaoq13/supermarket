@@ -1,7 +1,7 @@
 {
   "pages": [
     "pages/home/home",
-    "pages/activity/activity",
+    "pages/category/category",
     "pages/message/message",
     "pages/mine/mine"
   ],
@@ -20,10 +20,10 @@
         "text": "首页"
       },
       {
-        "pagePath": "pages/activity/activity",
+        "pagePath": "pages/category/category",
         "iconPath": "static/tabbar/activity_fill.png",
         "selectedIconPath": "static/tabbar/activity_fill-active.png",
-        "text": "商品"
+        "text": "分类"
       },
       {
         "pagePath": "pages/message/message",

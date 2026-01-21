@@ -7,9 +7,9 @@
 			}
 		},
 		{
-			"path": "pages/activity/activity",
+			"path": "pages/category/category",
 			"style": {
-				"navigationBarTitleText": "活动"
+				"navigationBarTitleText": "分类"
 			}
 		},
 		{
@@ -40,10 +40,10 @@
 				"text": "首页"
 			},
 			{
-				"pagePath": "pages/activity/activity",
+				"pagePath": "pages/category/category",
 				"iconPath": "static/tabbar/activity_fill.png",
 				"selectedIconPath": "static/tabbar/activity_fill-active.png",
-				"text": "商品"
+				"text": "分类"
 			},
 			{
 				"pagePath": "pages/message/message",
