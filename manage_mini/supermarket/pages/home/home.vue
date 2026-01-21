@@ -21,14 +21,14 @@
 		</view>
 
 		<view class="activity">
-			<CardComp 
+			<ActivityComp 
 				title='天天特惠' 
 				src="http://127.0.0.1:8000/uploads/6373ec81cdca4999986e723feb629cf7.jpeg"
 				product-name="笔记本电脑"
 				color="#fff5fd"
 			/>
 			
-			<CardComp
+			<ActivityComp
 				title='热卖榜单' 
 				src="http://127.0.0.1:8000/uploads/cd58165da6244702a2deabba9cff1cc3.jpg"
 				product-name="三只松鼠"
@@ -40,7 +40,7 @@
 
 <script setup lang='ts'>
 	import {ref} from 'vue'
-	import CardComp from '../../components/CardComp.vue'
+	import ActivityComp from '../../components/ActivityComp.vue'
 
 	const imgList = ref([
 		'http://127.0.0.1:8000/uploads/616b4c1fb3764a57965237637a09c5f3.jpg',

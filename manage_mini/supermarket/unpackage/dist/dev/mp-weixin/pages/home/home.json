@@ -1,6 +1,6 @@
 {
   "navigationBarTitleText": "首页",
   "usingComponents": {
-    "card-comp": "../../components/CardComp"
+    "activity-comp": "../../components/ActivityComp"
   }
 }
