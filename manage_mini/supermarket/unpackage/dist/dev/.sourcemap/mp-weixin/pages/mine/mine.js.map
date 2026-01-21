@@ -1,0 +1,1 @@
+{"version":3,"file":"mine.js","sources":["../../../../软件/HBuilderX.4.87.2025121004/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbWluZS9taW5lLnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'D:/demo/market_manage/manage_mini/supermarket/pages/mine/mine.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

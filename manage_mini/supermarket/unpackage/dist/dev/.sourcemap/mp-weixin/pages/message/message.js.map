@@ -1,0 +1,1 @@
+{"version":3,"file":"message.js","sources":["../../../../软件/HBuilderX.4.87.2025121004/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbWVzc2FnZS9tZXNzYWdlLnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'D:/demo/market_manage/manage_mini/supermarket/pages/message/message.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}
